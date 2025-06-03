@@ -20,7 +20,7 @@ I'm an Electrical and Telecommunications Engineering student with a passion for 
 
 ## 📫 How to Reach Me
 - Email: kandemark711@gmail.com 
-- LinkedIn: [Your LinkedIn link]  
+- LinkedIn: 
 - GitHub: [github.com/kandemark](https://github.com/kandemark)
 
 ## ✨ Fun Fact
