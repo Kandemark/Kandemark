@@ -19,9 +19,9 @@ I'm an Electrical and Telecommunications Engineering student with a passion for 
 - An AI-based geopolitical world simulator
 
 ## 📫 How to Reach Me
-- Email: mark.mbugu@example.com *(replace with real one)*  
+- Email: kandemark711@gmail.com 
 - LinkedIn: [Your LinkedIn link]  
-- GitHub: [github.com/markmbugu](https://github.com/markmbugu)
+- GitHub: [github.com/kandemark](https://github.com/kandemark)
 
 ## ✨ Fun Fact
 I'm building my own operating system from scratch in C++ 🚀
