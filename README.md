@@ -3,13 +3,13 @@
 ## 🚀 About Me
 I'm an Electrical and Telecommunications Engineering student with a passion for software development, operating systems, and building impactful applications. I enjoy solving real-world problems with code and love working on ambitious projects like:
 
-- 🌐 School Portals
+- 🌐 Portals
 - 💰 Virtual Money Systems
 - 🕹️ Geopolitical Simulation Games
 - 📱 Government e-Citizen Apps
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, C++, C, Kotlin  
+- **Languages:** Python, C++, Kotlin  
 - **Frameworks:** Django, Tkinter, Android Studio  
 - **Tools:** Git, VS Code, Postman, MySQL, SQLite
 
