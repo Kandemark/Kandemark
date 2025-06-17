@@ -24,7 +24,7 @@ I'm an Electrical and Telecommunications Engineering student with a passion for 
 - GitHub: [github.com/kandemark](https://github.com/kandemark)
 
 ## ✨ Fun Fact
-I'm building my own operating system from scratch in C++ 🚀
+I'm building my own virtual money system from scratch in C++ 🚀
 
 
 
