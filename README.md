@@ -20,7 +20,7 @@ I'm an Electrical and Telecommunications Engineering student with a passion for 
 
 ## 📫 How to Reach Me
 - Email: kandemark711@gmail.com 
-- LinkedIn: www.linkedin.com/in/mark-mbugu-788b95303
+- LinkedIn:
 
 - GitHub: [github.com/kandemark](https://github.com/kandemark)
 
