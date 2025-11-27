@@ -9,7 +9,7 @@ I'm an Electrical and Telecommunications Engineering student with a passion for 
 - 📱 Government e-Citizen Apps
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, C++, Kotlin  
+- **Languages:** Python, C/C++, Kotlin  
 - **Frameworks:** Django, Tkinter, Android Studio  
 - **Tools:** Git, VS Code, Postman, MySQL, SQLite
 
